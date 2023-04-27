@@ -1,0 +1,313 @@
+/*
+Theme Name: Lithemes
+Version: 1.0
+Theme URI: www.lithemes.com
+Author: The Lithemes Team
+Author URI: www.lithemes.com
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: lithemes
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+.alignleft {
+	float: left;
+	margin: 0.375em 1.75em 1.75em 0;
+}
+.alignright {
+	float: right;
+	margin: 0.375em 0 1.75em 1.75em;
+}
+.aligncenter {
+	clear: both;
+	display: block;
+	margin: 0 auto 1.75em;
+}
+.logged-in .body_container{
+	margin-top:32px;
+}
+.logged-in #slider{
+	margin-top:83px !important;
+}
+.logged-in #gradient{
+	top:32px !important;
+}
+#login_register_panel{
+	background:#fff;
+}
+.support-intro{
+	color:#fff;
+	text-align:center;
+	padding-bottom:70px;
+	font-size:20px;
+	font-weight:400;
+}
+.submit-tkt-btn-wrap{
+	text-align:center;
+	width:100%;
+	margin:0 auto;
+}
+.submit-tkt-btn{
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: 1px solid #fff;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    margin: 30px auto;
+    padding: 8px 30px 6px;
+    text-transform: uppercase;
+    transition-duration: 0.5s;
+}
+.submit-tkt-btn:hover, .submit-tkt-btn:focus{
+    background: #fff;
+    color: #000;
+	outline:none;
+}
+.wpas-help-block{
+    font-size: 14px;
+    position: relative;
+	margin:15px auto;
+	line-height:2;
+}
+.wpas-help-block code{
+    background: #ffe5e5 none repeat scroll 0 0;
+    margin:0 auto;
+    padding: 3px 5px;
+	color: #ff3939;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+.wpas-help-block a:link, .wpas-help-block a:visited, .wpas-help-block a:active {
+    color: #ec008c;
+}
+.wpas-help-block a:hover{
+	color:#000;
+	border-bottom:1px solid #000;
+}
+.page .wpas{
+	background:#fff;
+}
+.wpas-table .wpas-label{
+	color:#fff !important;
+	padding:0.4em 0.6em !important;
+	border-radius: 0.25em ;
+}
+.submit_ticket_button_margin {
+    margin: 15px 0 15px 0 !important;
+}
+.wp-editor-wrap {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #e5e6e6;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px 1px 7px;
+    position: relative;
+}
+.wpas_files{
+	display:none;
+}
+#login_register_panel {
+    padding: 20PX 0 !important;
+}
+.wpas-alert{
+	border-radius: 5px;
+	margin: 15px auto;
+    padding: 15px; 
+}
+.wpas-alert-danger{
+	background: #ffe5e5 none repeat scroll 0 0;
+    color: #ff3939;
+}
+.wpas-alert-info{
+	background: #d9edf7 none repeat scroll 0 0;
+    color: #65a2d6;
+}
+.wpas-alert-success{
+	background:#dff0d8 none repeat scroll 0 0;
+	color: #6ea7ba;
+}
+.wpas-alert a:link, .wpas-alert a:visited, .wpas-alert a:active {
+    border-bottom: 1px solid #000;
+    color: #000;
+	text-decoration:none;
+}
+.wpas-alert a:hover, .wpas-alert a:focus{
+    border-bottom: 1px solid #ec008c;
+    color: #ec008c;
+	outline:none;
+}
+.wpas_user_administrator .myticket_details_container{
+	background:#f5f5f5;
+}
+.wpas-reply-attachements{
+	background:#e5e5e5;
+	padding:15px;
+}
+.ticket_content_title_time {
+    padding-right: 30px !important;
+}
+.ticket_content_detail{
+	word-wrap:break-word;
+}
+@media only screen and (max-width:768px) 
+{
+	.ticket_content_title_name{ font-size:16px;}
+	.ticket_content_title_time{ font-size:12px;}
+	.ticket_content_detail{ font-size:14px;}
+	.myticket_button{ letter-spacing:1px}
+}
+
+
+/*==================== Lovebirds ====================*/
+.lovebirds_logo{
+	padding:50px 0 0;
+	width:auto;
+}
+.sticky .lovebirds_logo{
+	padding:0;
+	width:20%;
+	margin-top:8px;
+}
+.LB_theme_cnt_wrap{
+	padding:70px 0;
+}
+#LB-parallax{
+	background:url("images/LB-parralax.jpg") fixed center center no-repeat;
+}
+.white-overlay{
+	background:rgba(255,255,255,0.75);
+	padding:175px 0;
+}
+.LB-parallax-logo img{
+	margin:0 auto;
+	width:auto;
+}
+.LB-parallax-line{
+	text-transform:uppercase;
+	color:#333333;
+	font-size:20px;
+	letter-spacing:7px;
+	margin-top:15px;
+}
+.LB-fully-res-title{
+	text-transform:uppercase;
+	color:#000000;
+	font-size:36px;
+	font-weight:700;
+	margin-bottom:30px;
+}
+#LB-navi-menu{
+	padding:40px 0;
+	background-color:#f0394d;
+}
+.LB-nav-menu-title{
+	text-transform:uppercase;
+	color:#ffffff;
+	font-size:36px;
+	font-weight:700;
+	margin-bottom:30px;
+}
+#LB-the-couple, #LB-Features, #LB-fully-res{
+	padding:90px 0;
+}
+
+#LB-masonary-gallery {
+	margin:0px;
+	position:relative;
+	height:600px;
+	padding:0px;
+	display:inline-block;
+	width:100%;
+	vertical-align:top;
+}
+#LB-masonary-gallery .bg-color{
+	background-color:#00aec4;
+	display:inline-block;
+	height:400px;
+	margin:30px 0px;
+	width:100%;
+}
+.LB-mas-gal-wrap{
+	margin:-40px 0px 0px;
+	display:inline-block;
+	width:100%;
+	}
+#LB-rsvp-form{
+	padding:120px 0 70px;
+	background-color:#f0394d;
+	margin-top:-120px;
+}
+.heart-line-wrap{
+	width:300px;
+	margin:0 auto;
+}
+.heart-left, .heart-right{
+	height:1px;
+	background-color:#f0394d;
+	width:40%;
+}
+.heart-img{
+	width:20%;
+}
+.heart-img img{
+	margin-top:-7px;
+}
+.heart-right, .heart-left, .heart-img{
+	float:left;
+}
+.LB-Feat-icon-wrap{
+	background-color:#00aec4;
+	padding:40px 40px 10px;
+}
+.LB-vv{
+	background-color:#12bcd1;
+}
+.LB-Feat-icon-wrap h4{
+	text-align:center;
+	color:#fff;
+	min-height:70px;
+}
+#LB-rate-us{
+	background:url(images/LB-rate-us-bg.jpg) fixed center center no-repeat;
+}
+#LB-rate-us .ratings-title{
+	color:#12bcd1;
+	text-transform:uppercase;
+	letter-spacing:7px;
+	font-size:36px;
+	line-height:30px;
+	font-weight:500;
+}
+#LB-rate-us .ratings-tagline{
+	color:#555555;
+	font-size:20px;
+	line-height:24px;
+}
+.LB-white-bg{
+	background-color:#fff;
+	padding:70px 0;
+}
+#LB-rate-us .white-overlay{
+	background:rgba(255,255,255,0.0);
+	padding:100px 0;
+}
+.text-medium, strong {
+    font-weight: 700;
+}
+.ticket_content_detail a:link, .ticket_content_detail a:visited{
+    color: #ec008c;
+    text-decoration: none;
+}
+.ticket_content_detail  a:hover{
+	border-bottom: 1px solid #ec008c;
+    color: #ec008c;
+    text-decoration: none;
+	
+}

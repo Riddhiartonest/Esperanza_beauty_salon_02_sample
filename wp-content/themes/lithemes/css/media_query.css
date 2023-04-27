@@ -1,0 +1,470 @@
+﻿
+@media only screen and (min-width : 1680px) and (max-width : 1919px)
+{
+	
+}
+
+@media only screen and (min-width : 1600px) and (max-width : 1679px)
+{
+	#slide-148-layer-7, #slide-148-layer-9, #slide-148-layer-11 { left: -5% !important; }
+    #slide-148-layer-8, #slide-148-layer-10, #slide-148-layer-12 { left: 5% !important; }
+}
+
+@media only screen and (min-width : 1440px) and (max-width : 1599px)
+{
+    #slide-148-layer-7, #slide-148-layer-9, #slide-148-layer-11 { left: -5% !important; }
+    #slide-148-layer-8, #slide-148-layer-10, #slide-148-layer-12 { left: 5% !important; }
+}
+
+@media only screen and (min-width : 1400px) and (max-width : 1439px)
+{
+	#slide-148-layer-7, #slide-148-layer-9, #slide-148-layer-11 { left: -5% !important; }
+    #slide-148-layer-8, #slide-148-layer-10, #slide-148-layer-12 { left: 5% !important; }
+}
+
+@media only screen and (min-width : 1366px) and (max-width : 1399px)
+{
+	#slide-148-layer-7, #slide-148-layer-9, #slide-148-layer-11 { left: -15% !important; }
+    #slide-148-layer-8, #slide-148-layer-10, #slide-148-layer-12 { left: 15% !important; }
+}
+
+@media only screen and (min-width : 1360px) and (max-width : 1365px)
+{
+	#slide-148-layer-7, #slide-148-layer-9, #slide-148-layer-11 { left: -15% !important; }
+    #slide-148-layer-8, #slide-148-layer-10, #slide-148-layer-12 { left: 15% !important; }
+}
+
+@media only screen and (min-width : 1280px) and (max-width : 1359px)
+{
+	#slide-148-layer-7, #slide-148-layer-9, #slide-148-layer-11 { left: -15% !important; }
+    #slide-148-layer-8, #slide-148-layer-10, #slide-148-layer-12 { left: 15% !important; }
+}
+
+@media only screen and (min-width : 1152px) and (max-width : 1279px)
+{
+    #slider { margin-top: 80px !important; }
+    .aboutus_title, .services_title, .themes_title, .testimonials_title, .supports_title { font-size: 50px; }
+    .safe_hands_title { font-size: 18px; }
+    .theme_img_block_button, .theme_tabs { font-size: 13px; }
+    .testimonial_image { top: -11%; right: -7.5%; padding: 15px; }
+	#slide-148-layer-7, #slide-148-layer-9, #slide-148-layer-11 { left: -15% !important; }
+    #slide-148-layer-8, #slide-148-layer-10, #slide-148-layer-12 { left: 15% !important; }
+
+    /*******Blackair Html********/
+    #gradient { margin-top: 0 !important; }
+    .responsive_theme_feature { font-size: 26px; }
+    .core_features_block_title { font-size: 16px; }
+    .core_feature_title { font-size: 18px; }
+    .htmlValidate_title { font-size: 28px; }
+    .htmlValidate_detail { font-size: 18px; }
+    .w3cValidate_title { font-size: 20px; }
+    .w3cValidate_detail { font-size: 14px; }
+    .core_feature_detail { font-size: 14px; }
+
+    /*******Blackair Wordpress********/
+    .gradientbanner_tagline { font-size: 14px; }
+    .wordpress_features_content { font-size: 24px; }
+    .wordpress_features_block_title { font-size: 20px; }
+    .wordpress_features_content_details { font-size: 14px; }
+    .blackair_support_title { font-size: 30px; }
+    .blackair_support_details { font-size: 15px; }
+				  
+    .buzzware_support_title { font-size: 30px; }
+    .buzzware_support_details { font-size: 15px; }
+    .login_title { font-size: 20px; }
+    .dropyourfile_content { font-size: 20px; }
+    .uploadsize_content { font-size: 14px; }
+	
+	/******Lovebirds*****************/
+	.loveB{ margin-top:0  !important;}
+	
+}
+
+@media only screen and (min-width : 1024px) and (max-width : 1151px)
+{
+    #slider { margin-top: 80px !important; }
+    .aboutus_title, .services_title, .themes_title, .testimonials_title, .supports_title { font-size: 50px; }
+    .safe_hands_title { font-size: 18px; }
+    .theme_img_block_button, .theme_tabs { font-size: 13px; }
+    .testimonial_image { top: -11%; right: -7.5%; padding: 15px; }
+	#slide-148-layer-7, #slide-148-layer-9, #slide-148-layer-11 { left: -55% !important; }
+    #slide-148-layer-8, #slide-148-layer-10, #slide-148-layer-12 { left: 55% !important; }
+    .tp-mask-wrap { top: 450% !important;}
+
+    /*******Blackair Html********/
+    #gradient { margin-top: 80px !important; }
+    .responsive_theme_feature { font-size: 26px; }
+    .core_features_block_title { font-size: 16px; }
+    .core_feature_title { font-size: 18px; }
+    .htmlValidate_title { font-size: 28px; }
+    .core_feature_detail { font-size: 14px; }
+    .htmlValidate_detail { font-size: 18px; }
+    .w3cValidate_title { font-size: 20px; }
+    .w3cValidate_detail { font-size: 14px; }
+
+    /*******Blackair Wordpress********/
+    .gradientbanner_tagline { font-size: 14px; }
+    .wordpress_features_content { font-size: 24px; }
+    .wordpress_features_block_title { font-size: 20px; }
+    .wordpress_features_content_details { font-size: 14px; }
+    .blackair_support_title { font-size: 30px; }
+    .blackair_support_details { font-size: 15px; }
+
+    .login_title { font-size: 20px; }
+    .dropyourfile_content { font-size: 20px; }
+    .uploadsize_content { font-size: 14px; }
+	
+	/******Lovebirds*****************/
+	#gradient.loveB{ margin-top:0  !important;}
+	.buzzware_support_title { font-size: 30px; }
+    .buzzware_support_details { font-size: 15px; }
+}
+
+/*iPad*/
+@media only screen and (max-width:992px) 
+{
+    .theme_img_block_text_upper { padding: 30px 0 120px 0; }
+    .menu_icon { display: block; }
+    .navigation { display: none; position: fixed; background: #fff; border: none; right: 0; top: 0; padding: 0; box-shadow: 1px 2px 4px #999; -webkit-box-shadow: 1px 2px 4px #999; -moz-box-shadow: 1px 2px 4px #999; -ms-box-shadow: 1px 2px 4px #999; -o-box-shadow: 1px 2px 4px #999; }
+    .navigation li { display: block; text-align: center; }
+    .about_img_text { font-size: 16px; }
+    .tp-caption.Concept-Title, .Concept-Title { font-size: 16px !important; }
+
+    .aboutus_title, .services_title, .themes_title, .testimonials_title, .supports_title { font-size: 50px; }
+    .testimonial_image { right: -5.5%; }
+    .form input { margin: 15px 0; }
+    #btnSubmit { margin: 30px 0; }
+    .supports_title { padding: 100px 0 30px 0; }
+    #supports { height: 680px; }
+    .tp-parallax-wrap .tp-parallax-container { top: 50% !important; }
+    .prevControl, .nextControl { display: none; }
+    .down_arrow { margin-top: 150px !important; }
+
+    .responsive_theme_feature { font-size: 30px; line-height: 35px; margin-top: 50px; }
+    .responsive_theme_feature_photogallery { margin-top: 150px; }
+    .core_feature_title { font-size: 20px; }
+    .nopadding { padding: 0 !important; }
+    .validate_right_border { border: none; }  
+    .responsive_parallex_content { font-size: 16px; color: #ffffff; padding-top:5px; }
+	.liven-core-feature{ padding-bottom: 15px;}
+	.liven-form-text{ padding:150px 0 0 20px }
+	.liven-form-arrw { margin: 150px -90px 0 0; }
+	#login_register_panel { padding: 50px 0 20px 0; }
+    .register_form_container { padding-top: 50px; }
+
+    #tickets_container { padding: 50px 0 20px 0; }
+    .openticket_container { margin: 30px 0 0 0; padding: 20px 0; }
+
+    .knowyourlicense { margin: -16px 0 0 0; }
+    .myticket_button { padding: 10px 12px 8px 10px; }
+
+	/******Lovebirds*****************/
+	.LB-mas-gal-wrap{
+		margin:-25px 0 0;
+	}
+	
+	
+
+.padding-space > .row > .col-md-6 {
+  float: left;
+  width: 50%;
+}
+.font-position > .col-md-6.anton {
+  padding-left: 15px;
+  margin:0 0 15px;
+}
+
+.font-content > img {
+  margin-bottom: 7px;
+}
+.font-position {
+  padding: 0;
+}
+.safaribrowser_image_section .buzzware_theme_title > br,.theme_Features_buzz_section .responsive_theme_feature_light > br {
+  display: none;
+}
+.parallex-background {
+  min-height: 425px;
+}
+}
+
+@media only screen and (max-width:768px) 
+{
+	.gradient_block_button{ margin:40px auto 20px;}
+	#gradient{ height:auto; }
+	.gradientbanner_tagline{ padding:25px 0 40px; }
+	#gradient{ padding:0;}
+	#wpadminbar{position:fixed !important; }
+	/*---------------------------*/
+	.ticket_content_title_name{ font-size:16px;}
+	.ticket_content_title_time{ font-size:12px;}
+	.ticket_content_detail{ font-size:14px;}
+	.myticket_button{ letter-spacing:1px}
+	
+	#LB-masonary-gallery .bg-color{
+		margin:0;
+		padding:70px 0 40px;
+	}
+	.LB-mas-gal-wrap{
+		margin:0;
+	}
+	.LB_theme_cnt_wrap{
+		padding:0 15px 40px;
+	}
+	.LB-fully-res-title, .LB-nav-menu-title {
+		font-size:26px;
+	}
+	.LB_theme_cnt_wrap .liven_theme_title{
+		margin-top:15px;
+	}
+	#LB-parallax{
+		background:url("../images/LB-parralax.jpg") center center no-repeat;
+	}
+	#LB-rate-us{
+		background:url(../images/LB-rate-us-bg.jpg) center center repeat;
+	}	  
+.buzzware_theme_title br{ display:none; }
+	.parallex-background {
+  min-height: 1px;
+  padding: 0 0 50px;
+}
+.laptop-image {
+  position: relative;
+  right: 0;
+  top: 0;
+  text-align: center;
+}
+.revolution_slider_bg > .container,.safaribrowser_image_section > .container,.design_specification_res_section > .container,.parallex-background > .container,.theme_Features_buzz_section > .container  {
+  padding: 0 15px;
+}
+
+
+.theme_Features_buzz_section .responsive_theme_feature_light {
+  margin: 0 0 20px;
+}
+.responsive_theme_feature {
+  font-size: 28px;
+}
+.laptop-image > img {
+  width: 70%;
+}
+.parallex-right {
+  margin: 25px 0 0;
+}
+.font-content.google-font-left {
+  margin: 0 0 25px;
+}
+.design_specification_res_section .design-specification-content > br {
+  display: none;
+}
+}
+
+/*iPhone 6*/
+@media only screen and (max-width:480px) 
+{
+    .aboutus_title, .services_title, .themes_title, .testimonials_title, .supports_title { font-size: 40px; }
+    .NotGeneric-Button { padding: 10px 20px !important; }
+    .about_img_text { font-size: 18px; }
+    .safe_hands_title { font-size: 14px; }
+    #safe_hands { height: 520px; }
+    .testimonial_image { display: none; }
+    .slick-dotted.slick-slider { margin-bottom: 100px; }
+    .testimonial_block_container { padding: 30px 30px 80px 30px; }    
+    .buzzware_themeoption_title { padding: 20px 0; }
+    .blackair_themeoption_title { padding: 20px 0; }
+    .revolution_slider_block { padding: 80px 50px; }
+    .responsive_theme_feature { margin-top: 30px; margin-bottom: 30px; text-align: center; }
+	
+	.knowyourlicense { font-size: 12px; }
+    .theme_tabs { font-size: 14px; }
+	.gradientbanner_tagline{ padding:25px 0 0}
+	/*---------------------------*/
+    .card-head header { padding: 11px 5px; }
+    .myticket_button { padding: 10px 5px 8px 5px; font-size: 12px; }
+    .myticket_title { font-size: 26px; }
+    .myticket_button_margin { margin: 0 0 0 0; }					
+	/*---------------------------*/
+	.liven-responsive-img img{ width:100%;}
+	.liven-form-text{ padding:0; text-align:center;}
+	.liven-form-arrw{ margin:0; }
+	.liven-form-arrw img{ margin:30px auto -80px; transform:rotate(90deg);}
+	.liven-form-img img{ margin:0 auto;}
+	.liven-header-stylew-img img, .liven-header-styleb-img img{ margin:0 auto}
+	.liven_theme_title_spc{font-size:30px;}
+	.liven_theme_title, .feature-every-business-title, .liven-sc-title, .liven-sc-title, .liven-sc-title{ font-size:22px;}
+	.liven_revolution_slider_block{ padding:60px 15px;}
+	.liven_rev_slider_price, .liven-homepage-style-title, .liven-sourcecode-title, .free-support-title, .ratings-title{font-size:26px;}	
+	
+	.tl-line{ display:none;}
+	.tl-element-wrap {
+		padding:0 0 30px;
+	}
+	.tl-cnt-left {
+		left: 115px;
+		position: absolute;
+		top: 20px;
+		width:70%;
+	}
+	.tl-img-right{
+		width:30%;
+	}
+	.tl-img-right img {
+		margin: 0;
+		float:none;
+	}
+	.tl-cnt-right {
+		left: 0;
+		top: 20px;
+		width:70%;
+	}
+	.tl-img-left{
+		width:30%;
+	}
+	.tl-img-left img{
+		margin:0;
+		float:right;
+	}
+	.disnone{
+		display:none;
+	}
+	#timeline .tl-cnt-left, #timeline .tl-cnt-right{
+		padding:0 15px;
+	}	
+
+	.responsive_theme_feature{ font-size:22px; line-height:25px; margin-top: 5px; margin-bottom: 5px; }
+	.responsive_theme_feature_light{ text-align:center; }
+	.padding-space{ padding: 45px 15px; }
+	.design-specification-title{ font-size: 25px; }
+	.color-pallete-section{ padding: 50px 0; }
+	.followus_title{ padding: 50px 0 15px; }
+	.footer_copyright{ padding: 15px 0 75px; }
+	#theme_Features{ padding: 40px 0; }
+	.buzzware_theme_title br,.responsive_theme_feature_light br,.design-specification-content br{ display:none; }
+	.responsive_parallex_title{ font-size: 25px; line-height: 30px; margin-top: 45px; }
+	.font-position { margin: 20px 0; padding: 0; }
+	.font-position > .col-md-6.anton { padding-left: 15px; margin: 0 0 10px; }
+	.color-pallete-max-width h1 { font-size:25px; }
+	#safaribrowser_imagesection { padding: 45px 0 75px 0; }
+	#revolution_slider { padding: 60px 0; }
+	.feature_bottom_border { padding: 30px 0; }
+}
+
+/*iPhone 6*/
+@media only screen and (max-width:375px) 
+{
+	.tl-cnt-left{ left:105px; }
+}
+
+/*Nexus 5*/
+@media only screen and (max-width:360px) 
+{
+	.tl-cnt-left {
+		left: 100px;
+	}
+	.responsive_theme_feature{ margin-top:0px; margin-bottom:0px; font-size:22px; line-height:25px; margin-top: 10px; margin-bottom: 10px; }
+	.responsive_theme_feature_light{ text-align:center; }
+	.padding-space{ padding: 45px 15px; }
+	.design-specification-title{ font-size: 25px; }
+	.color-pallete-section{ padding: 50px 0; }
+	.followus_title{ padding: 50px 0 15px; }
+	.footer_copyright{ padding: 15px 0 75px; }
+	#theme_Features{ padding: 40px 0; }
+	.buzzware_theme_title br,.responsive_theme_feature_light br,.design-specification-content br{ display:none; }
+	.responsive_parallex_title{ font-size: 25px; line-height: 30px; margin-top: 45px; }
+	.font-position { margin: 20px 0; padding: 0; }
+	.font-position > .col-md-6.anton { padding-left: 15px; margin: 0 0 10px; }
+	.color-pallete-max-width h1 { font-size:25px; }
+	
+	.laptop-image > img {
+  display: inline-block;
+  width: 90%;
+}
+}
+
+/*iPhone 5*/
+@media only screen and (max-width:320px) 
+{
+	.tl-cnt-left {
+		left: 87px;
+	}
+	 .responsive_theme_feature{ margin-top:0px; margin-bottom:0px; font-size:22px; line-height:25px; }
+	.responsive_theme_feature_light{ text-align:center; }
+	.padding-space{ padding: 45px 15px; }
+	.design-specification-title{ font-size: 25px; }
+	.color-pallete-section{ padding: 50px 0; }
+	.followus_title{ padding: 50px 0 15px; }
+	.footer_copyright{ padding: 15px 0 75px; }
+	#theme_Features{ padding: 40px 0; }
+	.buzzware_theme_title br,.responsive_theme_feature_light br,.design-specification-content br{ display:none; }
+	.responsive_parallex_title{ font-size: 25px; line-height: 30px; margin-top: 45px; }
+	.font-position { margin: 20px auto 0; max-width: 255px; padding: 0; }
+	.font-position > .col-md-6.anton { padding-left: 0px; margin: 0 0 10px; }
+	.color-pallete-max-width h1 { font-size:25px; }
+
+	.feature_bottom_border{ padding: 25px 0 0; }
+	
+	.theme_Features_buzz_section .feature_bottom_border img {
+  margin: 0 0 25px;
+}
+.laptop-image > img {
+  display: inline-block;
+  width: 100%;
+}
+.font-position > div {
+  padding: 0;
+}
+}
+
+/*iPhone 4*/
+@media only screen and (max-height:480px) 
+{
+	.gradientbanner_tagline{ padding:25px 0 0}
+	.liven-form-text{ padding:0; text-align:center; width:100%; }
+	.liven-form-arrw{ margin:0; width:100%; }
+	.liven-form-img { width:100%; }
+	.liven-form-arrw img{ margin:30px auto -80px; transform:rotate(90deg);}
+	.liven-form-img img{ margin:0 auto;} 
+	.liven-header-stylew-img img, .liven-header-styleb-img img{ margin:0 auto; }
+	
+	.tl-cnt-left .tl-text{ width:78%; }
+	.tl-cnt-right .tl-text{ width:78%; float:right; }
+	.disnone{
+		display:none;
+	}       
+}
+
+/*Mobile - Landscape*/
+@media only screen and (max-height:375px) 
+{
+    .logo_size { width: 50%; }
+    #aboutus img { width: 100%; }
+    .about_img_text { font-size: 20px; }
+    #safe_hands { height: 450px; }
+    .buzzware_slider_logo { top: 10% !important; }
+    .blackair_slider_logo { top: 10% !important; }
+    .tp-caption.Concept-Title, .Concept-Title { font-size: 14px !important; margin-top: 10px !important; }
+    #slide-148-layer-7, #slide-148-layer-9, #slide-148-layer-11 { left: -50% !important; font-size: 12px !important; margin-top: 50px !important; }
+    #slide-148-layer-8, #slide-148-layer-10, #slide-148-layer-12 { left: 50% !important; font-size: 12px !important; margin-top: 50px !important; }
+
+    .responsive_theme_feature { margin-top: 30px; margin-bottom: 30px; text-align: center; }
+	.liven-header-stylew-img img, .liven-header-styleb-img img{ margin:0 auto	}
+	
+	.liven-form-arrw{ margin:0; }
+	.liven-form-arrw img{ margin:30px auto -80px; transform:rotate(90deg);}
+	.liven-form-img img{ margin:0 auto;}
+	.liven-form-text{ padding:0; text-align:center;}
+	
+	.tl-cnt-left .tl-text{ width:78%; }
+	.tl-cnt-right .tl-text{ width:78%; float:right; }
+	.disnone{
+		display:none;
+	}
+	
+	
+}
+
+/*Mobile - Landscape*/
+@media only screen and (max-height:320px) 
+{
+
+}
